@@ -1,0 +1,4 @@
+-> first you have to install python
+-> You have to install streamlit , numpy , pandas , sklearn
+-> Then from terminal you have to write "streamlit run hackathon.py"
+-> These step will load website in your chrome

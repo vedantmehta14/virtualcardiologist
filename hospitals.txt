@@ -1,0 +1,16 @@
+Doctor Name,Hospital Name,Pincode
+Dr. Milan Chag,CIMS Hospital,380060
+Dr. Keyur Parikh,Sterling Hospital,380052
+Dr. Gunvant Patel,CIMS Hospital,380060
+Dr. Hasit Joshi,BJ Medical,380016
+Dr. Hemang BaxiCIMS Hospital,380060
+Dr. Jayesh Raval,Columbia Asia Hospital,380054
+Dr. Jitendra Karamchandani,	Sindhu Hospital,382340
+Dr. Joyal Shah,CIMS Hospital,380060
+Dr. Kamlesh Thakkar,Sterling Hospital,380052
+Dr. Mahesh Pandya,Shalby Hospitals,380015
+Dr. Mehul Shah,SAL Hospital,380054
+Dr. Nimiesh Bhavsar,Samata Hospital,382481
+Dr. Nurul Noorani,SAL Hospital,380054
+Dr. Rashmit Pandya,SAL Hospital,380054
+Dr. Sameer Dani,Apollo Clinic,380008
